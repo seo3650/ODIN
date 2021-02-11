@@ -1,0 +1,9 @@
+data/tiny-imagenet/
+data/lsun/
+.vscode/
+__pycache__/*
+models/
+*.png
+odin.ipynb
+data/cifar-100-python.tar.gz
+data/cifar-100-python/
